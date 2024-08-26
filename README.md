@@ -12,6 +12,18 @@ Welcome to my GitHub profile! I'm a sophomore student at FAST NUCES, passionate 
 - **Web Development:** React, HTML, CSS, JavaScript
 - **Version Control:** Git, GitHub
 - **Operating Systems:** Linux, Windows
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 
 
 ### 🌱 Currently Learning
 I'm constantly seeking new knowledge. Currently, I'm focused on:
@@ -26,6 +38,11 @@ I'm particularly interested in:
 - **Data Analysis:** Extracting meaningful insights from complex datasets.
 - **Web Development:** Creating dynamic and responsive web applications.
 - **Machine Learning & Deep Learning:** Developing models that can predict, classify, and understand data.
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 
+- 
+- 
 
 ### 👯 Collaboration & Open Source
 I'm open to collaborating on:
@@ -42,8 +59,9 @@ I'm open to collaborating on:
 I'm always excited to discuss anything related to Data Analysis, Machine Learning, Web Development, and programming in general. Feel free to reach out!
 
 ### 📫 How to Reach Me
-- **Email:** [i.mustafahk@gmail.com](mailto:i.mustafahk@gmail.com)
-- **LinkedIn:** [Email](https://www.linkedin.com/in/mustafa-khan-14a15b217/)
+- **Email:** [Email](mailto:i.mustafahk@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/mustafa-khan-14a15b217]
+
 
 ### ⚡ Fun Fact
 When I'm not coding, you might find me exploring the latest tech trends, working on personal projects, or enjoying a good sci-fi novel.
