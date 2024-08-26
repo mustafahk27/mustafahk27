@@ -43,7 +43,7 @@ I'm always excited to discuss anything related to Data Analysis, Machine Learnin
 
 ### 📫 How to Reach Me
 - **Email:** [i.mustafahk@gmail.com](mailto:i.mustafahk@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mustafa-khan-14a15b217/)
+- **LinkedIn:** [Email](https://www.linkedin.com/in/mustafa-khan-14a15b217/)
 
 ### ⚡ Fun Fact
 When I'm not coding, you might find me exploring the latest tech trends, working on personal projects, or enjoying a good sci-fi novel.
