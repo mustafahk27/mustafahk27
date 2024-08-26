@@ -33,11 +33,7 @@ I'm particularly interested in:
 - **Data Analysis:** Extracting meaningful insights from complex datasets.
 - **Web Development:** Creating dynamic and responsive web applications.
 - **Machine Learning & Deep Learning:** Developing models that can predict, classify, and understand data.
-	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 
 ### 👯 Collaboration & Open Source
 I'm open to collaborating on:
