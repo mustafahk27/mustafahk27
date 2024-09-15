@@ -77,7 +77,7 @@ I'm always excited to discuss anything related to Data Analysis, Machine Learnin
 - **Email:**  
   [![Email](https://img.shields.io/badge/Email-i.mustafahk@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.mustafahk@gmail.com)
 - **LinkedIn:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-khan-14a15b217)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MustafaKhan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-khan-14a15b217)
 
 ### ⚡ Fun Fact
 When I'm not coding, you might find me exploring the latest tech trends, working on personal projects, or enjoying a good sci-fi novel.
