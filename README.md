@@ -1,86 +1,49 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Welcome to my GitHub profile! I'm a sophomore student at FAST NUCES, passionate about technology and continuously expanding my skill set. My primary expertise lies in **Object-Oriented Programming (OOP)**, **Data Structures and Algorithms (DSA)**, **Machine Learning**, **Deep Learning**, and **Data Analysis**. I'm also exploring **Web Development** using modern frameworks like React.
+###
 
-### 🔧 Technologies & Tools
-- **Languages:**  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafahk27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafahk27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- **Programming Paradigms:**  
-  ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-brightgreen?style=for-the-badge)
+###
 
-- **Algorithms:**  
-  ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20and%20Algorithms-brightgreen?style=for-the-badge)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- **Machine Learning:**  
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+###
 
-- **Deep Learning:**  
-  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-brightgreen?style=for-the-badge)
-  ![CNNs](https://img.shields.io/badge/CNNs-Convolutional%20Neural%20Networks-blue?style=for-the-badge)
-  ![RNNs](https://img.shields.io/badge/RNNs-Recurrent%20Neural%20Networks-blue?style=for-the-badge)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- **Data Analysis:**  
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+###
 
-- **Web Development:**  
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+###
 
-- **Operating Systems:**  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br clear="both">
 
-### 🌱 Currently Learning
-I'm constantly seeking new knowledge. Currently, I'm focused on:
-- Advanced Data Analysis techniques using tools like Power BI
-- Implementing and optimizing Deep Learning models
-- Exploring front-end web development with React
-- Enhancing my skills in SQL for data manipulation and analysis
+<img src="https://raw.githubusercontent.com/mustafahk27/mustafahk27/output/snake.svg" alt="Snake animation" />
 
-### 💡 Interests
-I'm particularly interested in:
-- **Artificial Intelligence:** Building intelligent systems that can learn and adapt.
-- **Data Analysis:** Extracting meaningful insights from complex datasets.
-- **Web Development:** Creating dynamic and responsive web applications.
-- **Machine Learning & Deep Learning:** Developing models that can predict, classify, and understand data.
-
-### 👯 Collaboration & Open Source
-I'm open to collaborating on:
-- **Open Source Projects** related to Data Analysis, Machine Learning, and Web Development
-- **Algorithm Implementations** in C/C++
-- **AI-driven applications** and research projects
-
-### 🤔 Seeking Help With
-- Contributions to advanced ML/DL projects
-- Best practices in modern web development with React
-- Tips on optimizing SQL queries for performance
-
-### 💬 Let's Connect
-I'm always excited to discuss anything related to Data Analysis, Machine Learning, Web Development, and programming in general. Feel free to reach out!
-
-- **Email:**  
-  [![Email](https://img.shields.io/badge/Email-i.mustafahk@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.mustafahk@gmail.com)
-- **LinkedIn:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MustafaKhan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-khan-14a15b217)
-
-### ⚡ Fun Fact
-When I'm not coding, you might find me exploring the latest tech trends, working on personal projects, or enjoying a good sci-fi novel.
-
-### 🌟 Motivational Quote
-*"The only way to do great work is to love what you do." — Steve Jobs*
+###
