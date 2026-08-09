@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS Junior at FAST NUCES<br>I'm currently working on ML & DL projects<br>I'm open to collaborate on AI based projects<br>I'm looking for help with cloud computing 
+CS Senior at FAST NUCES<br>I'm currently working on ML & DL projects<br>I'm open to collaborate on AI based projects<br>I'm looking for help with cloud computing 
 
 
 ## 🌐 Socials:
